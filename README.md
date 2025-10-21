@@ -1,4 +1,4 @@
-# Hello-Manifests - Manifestos Kubernetes
+# Hello-Manifests: Manifestos Kubernetes
 
 ## Visão Geral
 
