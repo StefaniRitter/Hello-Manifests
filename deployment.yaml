@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: hello-app
-          image: stefaniritter/hello-app:latest
+          image: stefaniritter/hello-app:0a0b6129b34e9a635f69b7e3ae7065b4bbcb5e52
           ports:
             - containerPort: 8080
