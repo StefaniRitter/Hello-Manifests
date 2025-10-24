@@ -27,7 +27,7 @@ A atualização deste repositório é totalmente automatizada pelo pipeline de C
 
 Não são necessárias intervenções manuais no cluster (como kubectl apply).
 
-[Voltar para o Repositório do Código (hello-app)](https://github.com/StefaniRitter/Hello-App)
+Para mais informações sobre os manifestos e o projeto, [acesse o repositório principal (hello-app)](https://github.com/StefaniRitter/Hello-App)
 
 
 
